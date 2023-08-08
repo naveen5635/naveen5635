@@ -19,6 +19,8 @@
  - <img src="https://github.com/naveen5635/naveen5635/blob/main/Images/firebase-icon.svg" alt="firebase" width="20" height="20"/> Firebase
 
  - <img src="https://github.com/naveen5635/naveen5635/blob/main/Images/stream.png" alt="stream" width="20" height="20"/> Streamlit
+   
+ - <img src="https://github.com/naveen5635/naveen5635/blob/main/Images/icons8-figma.svg" alt="figma" width="20" height="20"/> Figma
 
 <p align="center"> 
   <i>Find Me Here ! :raising_hand_man: </i>
