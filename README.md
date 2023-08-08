@@ -6,7 +6,6 @@
 <img align= "right" width= "240" src= "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 - 📚 I’m currently learning everything about React Native , NodeJS And Python 😅
-- 🗺 Experience in Designing with Canva and VN
 - 💪🏼 Future Goals: Enjoy Life, Create a better living for other's 
 - ⚡  Fun fact: I love to play eSports.
 - ✌️ Created 5+ Python project's , 2+ App's and took Seminar's on MANET
