@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-joy-187887189/"><img src="https://github.com/naveen5635/naveen5635/blob/main/Images/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/naveen_5635/"><img src="https://github.com/naveen5635/naveen5635/blob/main/Images/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/nv33.n/"><img src="https://github.com/naveen5635/naveen5635/blob/main/Images/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="#"><img src="https://github.com/naveen5635/naveen5635/blob/main/Images/twitter-round.svg" width="35px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+918943039471"><img src="https://github.com/naveen5635/naveen5635/blob/main/Images/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
