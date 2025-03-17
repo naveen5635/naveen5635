@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently working on Fullstack development in Web3 & Ai.<br>💪🏼 Future Goals: Enjoy Life, Create a better living for other's.<br>⚡ Fun fact: I love to play video games.
+📚 I'm working on Fullstack development in Web3 & Ai.<br>💪🏼 Future Goals: Enjoy Life, Create a better living for other's.<br>⚡ Fun fact: I love to play video games.<br>⚡Surviving a Master's in EduTech in Germany 🎓📚😅.<br> Currently calling Germany home 🇩🇪🏠
 
 
 ## 🌐 Socials:
